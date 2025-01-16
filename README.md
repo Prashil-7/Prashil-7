@@ -1,7 +1,8 @@
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:500/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://prshillonare.io) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/prashillonare?theme=dark&font=Alatsi&ext=activity )
 <h1 align="center">Hi 👋, I'm Prashil Lonare</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
+
 <img align="right" width="300" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
