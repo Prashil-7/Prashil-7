@@ -1,5 +1,6 @@
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/prashillonare?theme=dark&font=Alatsi&ext=activity )
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/prashillonare?theme=dark&font=Short%20Stack)
 <h1 align="center">Hi 👋, I'm Prashil Lonare</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
